@@ -1,7 +1,14 @@
 #+author: Nicola Ferru
 #+email: Ask dot NfVblog Dot Outlook dot It
 #+title: Reaveljs Professional Themes
+
 Reaveljs Professional Themes is a collection of themes for the Reavel
 Framework, this was done to ensure graphic continuity in the works,
 since it allows you to make very interesting presentations, complete
 with animations and effects.
+
+** Install
+#+begin_src shell
+  cp theme_directory/nameThemes.css /prefix/reaveljs/dist/theme/
+  cp theme_directory/nameThemes.scss /prefix/reaveljs/css/theme/source/
+#+end_src
